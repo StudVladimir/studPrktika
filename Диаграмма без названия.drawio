@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-01T18:56:43.605Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" etag="wVkEwqUG4eeG31YDOp3x" version="20.5.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-11-01T21:28:17.868Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" etag="2NmSO2JOOclE7iT2O4JY" version="20.5.1" type="github" pages="4">
   <diagram id="XVd9_aGAk1N9qplD8U_b" name="Страница 1">
-    <mxGraphModel dx="1466" dy="743" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1026" dy="520" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -313,7 +313,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="EYzdhsiXPZPBMYFv2ePI" name="Страница 2">
-    <mxGraphModel dx="2365" dy="1700" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="920" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1064,13 +1064,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="1-PW3X7yGo-_oeGw8SEH-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1-PW3X7yGo-_oeGw8SEH-1" target="1-PW3X7yGo-_oeGw8SEH-2">
+        <mxCell id="1-PW3X7yGo-_oeGw8SEH-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1-PW3X7yGo-_oeGw8SEH-1" target="1-PW3X7yGo-_oeGw8SEH-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1-PW3X7yGo-_oeGw8SEH-1" value="Назначить лечение" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1-PW3X7yGo-_oeGw8SEH-1" value="Назначить лечение" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-40" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1-PW3X7yGo-_oeGw8SEH-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1-PW3X7yGo-_oeGw8SEH-2" target="1-PW3X7yGo-_oeGw8SEH-4">
+        <mxCell id="1-PW3X7yGo-_oeGw8SEH-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1-PW3X7yGo-_oeGw8SEH-2" target="1-PW3X7yGo-_oeGw8SEH-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="437" y="354" as="targetPoint" />
             <Array as="points">
@@ -1079,13 +1079,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1-PW3X7yGo-_oeGw8SEH-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="1-PW3X7yGo-_oeGw8SEH-2" target="1-PW3X7yGo-_oeGw8SEH-3">
+        <mxCell id="1-PW3X7yGo-_oeGw8SEH-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="1-PW3X7yGo-_oeGw8SEH-2" target="1-PW3X7yGo-_oeGw8SEH-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1-PW3X7yGo-_oeGw8SEH-2" value="Составить план лечения" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1-PW3X7yGo-_oeGw8SEH-2" value="Составить план лечения" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1-PW3X7yGo-_oeGw8SEH-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1-PW3X7yGo-_oeGw8SEH-3" target="1-PW3X7yGo-_oeGw8SEH-5">
+        <mxCell id="1-PW3X7yGo-_oeGw8SEH-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1-PW3X7yGo-_oeGw8SEH-3" target="1-PW3X7yGo-_oeGw8SEH-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="580" y="250" />
@@ -1093,10 +1093,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1-PW3X7yGo-_oeGw8SEH-3" value="Вылечить зубы" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1-PW3X7yGo-_oeGw8SEH-3" value="Вылечить зубы" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="220" width="120" height="96" as="geometry" />
         </mxCell>
-        <mxCell id="1-PW3X7yGo-_oeGw8SEH-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="1-PW3X7yGo-_oeGw8SEH-4" target="1-PW3X7yGo-_oeGw8SEH-5">
+        <mxCell id="1-PW3X7yGo-_oeGw8SEH-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="1-PW3X7yGo-_oeGw8SEH-4" target="1-PW3X7yGo-_oeGw8SEH-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="570" y="345" />
@@ -1104,63 +1104,63 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1-PW3X7yGo-_oeGw8SEH-4" value="Сделать протез" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1-PW3X7yGo-_oeGw8SEH-4" value="Сделать протез" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="300" width="120" height="109" as="geometry" />
         </mxCell>
-        <mxCell id="1-PW3X7yGo-_oeGw8SEH-5" value="Рассчитать пациента" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1-PW3X7yGo-_oeGw8SEH-5" value="Рассчитать пациента" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1-PW3X7yGo-_oeGw8SEH-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="1-PW3X7yGo-_oeGw8SEH-1">
+        <mxCell id="1-PW3X7yGo-_oeGw8SEH-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" target="1-PW3X7yGo-_oeGw8SEH-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-10" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1-PW3X7yGo-_oeGw8SEH-28" value="Результаты&lt;br&gt;осмотра" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="1-PW3X7yGo-_oeGw8SEH-12">
+        <mxCell id="1-PW3X7yGo-_oeGw8SEH-28" value="Результаты&lt;br&gt;осмотра" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" parent="1-PW3X7yGo-_oeGw8SEH-12" vertex="1" connectable="0">
           <mxGeometry x="-0.7333" y="1" relative="1" as="geometry">
             <mxPoint x="32" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1-PW3X7yGo-_oeGw8SEH-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="1-PW3X7yGo-_oeGw8SEH-1">
+        <mxCell id="1-PW3X7yGo-_oeGw8SEH-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="1-PW3X7yGo-_oeGw8SEH-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-120" y="90" as="sourcePoint" />
             <mxPoint x="-70" y="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1-PW3X7yGo-_oeGw8SEH-15" value="Пациент" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1-PW3X7yGo-_oeGw8SEH-14">
+        <mxCell id="1-PW3X7yGo-_oeGw8SEH-15" value="Пациент" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1-PW3X7yGo-_oeGw8SEH-14" vertex="1" connectable="0">
           <mxGeometry x="-0.5956" y="-3" relative="1" as="geometry">
             <mxPoint y="-12" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1-PW3X7yGo-_oeGw8SEH-16" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="1-PW3X7yGo-_oeGw8SEH-1">
+        <mxCell id="1-PW3X7yGo-_oeGw8SEH-16" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" target="1-PW3X7yGo-_oeGw8SEH-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-10" y="520" as="sourcePoint" />
             <mxPoint x="50" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1-PW3X7yGo-_oeGw8SEH-17" value="Стоматолог" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="1-PW3X7yGo-_oeGw8SEH-16">
+        <mxCell id="1-PW3X7yGo-_oeGw8SEH-17" value="Стоматолог" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" parent="1-PW3X7yGo-_oeGw8SEH-16" vertex="1" connectable="0">
           <mxGeometry x="-0.8697" y="-1" relative="1" as="geometry">
             <mxPoint x="-35" y="8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1-PW3X7yGo-_oeGw8SEH-21" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="1-PW3X7yGo-_oeGw8SEH-21" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-10" y="240" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1-PW3X7yGo-_oeGw8SEH-19" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;entryX=0.25;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1-PW3X7yGo-_oeGw8SEH-21" target="1-PW3X7yGo-_oeGw8SEH-2">
+        <mxCell id="1-PW3X7yGo-_oeGw8SEH-19" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;entryX=0.25;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1-PW3X7yGo-_oeGw8SEH-21" target="1-PW3X7yGo-_oeGw8SEH-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="10" as="sourcePoint" />
             <mxPoint x="140" y="30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1-PW3X7yGo-_oeGw8SEH-20" value="" style="endArrow=none;html=1;rounded=0;fontSize=11;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1-PW3X7yGo-_oeGw8SEH-21">
+        <mxCell id="1-PW3X7yGo-_oeGw8SEH-20" value="" style="endArrow=none;html=1;rounded=0;fontSize=11;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1-PW3X7yGo-_oeGw8SEH-21" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="10" as="sourcePoint" />
             <mxPoint y="10" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1-PW3X7yGo-_oeGw8SEH-22" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="1-PW3X7yGo-_oeGw8SEH-22" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-10" y="343" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1-PW3X7yGo-_oeGw8SEH-23" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;edgeStyle=orthogonalEdgeStyle;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1-PW3X7yGo-_oeGw8SEH-22" target="1-PW3X7yGo-_oeGw8SEH-3">
+        <mxCell id="1-PW3X7yGo-_oeGw8SEH-23" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;edgeStyle=orthogonalEdgeStyle;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1-PW3X7yGo-_oeGw8SEH-22" target="1-PW3X7yGo-_oeGw8SEH-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="10" as="sourcePoint" />
             <mxPoint x="280" y="10" as="targetPoint" />
@@ -1169,38 +1169,38 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1-PW3X7yGo-_oeGw8SEH-24" value="" style="endArrow=none;html=1;rounded=0;fontSize=11;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1-PW3X7yGo-_oeGw8SEH-22">
+        <mxCell id="1-PW3X7yGo-_oeGw8SEH-24" value="" style="endArrow=none;html=1;rounded=0;fontSize=11;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1-PW3X7yGo-_oeGw8SEH-22" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="10" as="sourcePoint" />
             <mxPoint y="10" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1-PW3X7yGo-_oeGw8SEH-25" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="1-PW3X7yGo-_oeGw8SEH-4">
+        <mxCell id="1-PW3X7yGo-_oeGw8SEH-25" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="1-PW3X7yGo-_oeGw8SEH-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="500" y="520" as="sourcePoint" />
             <mxPoint x="510" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1-PW3X7yGo-_oeGw8SEH-26" value="Зубной&lt;br&gt;Техник" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="1-PW3X7yGo-_oeGw8SEH-25">
+        <mxCell id="1-PW3X7yGo-_oeGw8SEH-26" value="Зубной&lt;br&gt;Техник" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" parent="1-PW3X7yGo-_oeGw8SEH-25" vertex="1" connectable="0">
           <mxGeometry x="-0.7324" relative="1" as="geometry">
             <mxPoint x="-24" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1-PW3X7yGo-_oeGw8SEH-27" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="1-PW3X7yGo-_oeGw8SEH-3">
+        <mxCell id="1-PW3X7yGo-_oeGw8SEH-27" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="1-PW3X7yGo-_oeGw8SEH-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="340" as="sourcePoint" />
             <mxPoint x="380" y="50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1-PW3X7yGo-_oeGw8SEH-29" value="Приказ №786н от 31.07.2020&lt;br&gt;О порядке оказания медицинской&lt;br&gt;помощи взрослому населению&lt;br&gt;при стоматологическом&lt;br&gt;заболевании" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="1-PW3X7yGo-_oeGw8SEH-27">
+        <mxCell id="1-PW3X7yGo-_oeGw8SEH-29" value="Приказ №786н от 31.07.2020&lt;br&gt;О порядке оказания медицинской&lt;br&gt;помощи взрослому населению&lt;br&gt;при стоматологическом&lt;br&gt;заболевании" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" parent="1-PW3X7yGo-_oeGw8SEH-27" vertex="1" connectable="0">
           <mxGeometry x="-0.8952" relative="1" as="geometry">
             <mxPoint x="92" y="21" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1-PW3X7yGo-_oeGw8SEH-30" value="" style="group;direction=west;flipH=0;flipV=1;" vertex="1" connectable="0" parent="1">
+        <mxCell id="1-PW3X7yGo-_oeGw8SEH-30" value="" style="group;direction=west;flipH=0;flipV=1;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="340" y="90" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1-PW3X7yGo-_oeGw8SEH-31" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;edgeStyle=orthogonalEdgeStyle;entryX=0.443;entryY=-0.018;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1-PW3X7yGo-_oeGw8SEH-30" target="1-PW3X7yGo-_oeGw8SEH-4">
+        <mxCell id="1-PW3X7yGo-_oeGw8SEH-31" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;edgeStyle=orthogonalEdgeStyle;entryX=0.443;entryY=-0.018;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1-PW3X7yGo-_oeGw8SEH-30" target="1-PW3X7yGo-_oeGw8SEH-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="10" y="10" as="sourcePoint" />
             <mxPoint x="153" y="190" as="targetPoint" />
@@ -1209,27 +1209,27 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1-PW3X7yGo-_oeGw8SEH-32" value="" style="endArrow=none;html=1;rounded=0;fontSize=11;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1-PW3X7yGo-_oeGw8SEH-30">
+        <mxCell id="1-PW3X7yGo-_oeGw8SEH-32" value="" style="endArrow=none;html=1;rounded=0;fontSize=11;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1-PW3X7yGo-_oeGw8SEH-30" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="10" y="10" as="sourcePoint" />
             <mxPoint as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1-PW3X7yGo-_oeGw8SEH-33" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="1-PW3X7yGo-_oeGw8SEH-2">
+        <mxCell id="1-PW3X7yGo-_oeGw8SEH-33" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="1-PW3X7yGo-_oeGw8SEH-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="180" y="520" as="sourcePoint" />
             <mxPoint x="230" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1-PW3X7yGo-_oeGw8SEH-34" value="Администратор" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="1-PW3X7yGo-_oeGw8SEH-33">
+        <mxCell id="1-PW3X7yGo-_oeGw8SEH-34" value="Администратор" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" parent="1-PW3X7yGo-_oeGw8SEH-33" vertex="1" connectable="0">
           <mxGeometry x="-0.9098" y="-1" relative="1" as="geometry">
             <mxPoint x="-46" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1-PW3X7yGo-_oeGw8SEH-35" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="1-PW3X7yGo-_oeGw8SEH-35" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="180" y="460" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1-PW3X7yGo-_oeGw8SEH-36" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;edgeStyle=orthogonalEdgeStyle;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1-PW3X7yGo-_oeGw8SEH-35" target="1-PW3X7yGo-_oeGw8SEH-5">
+        <mxCell id="1-PW3X7yGo-_oeGw8SEH-36" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;edgeStyle=orthogonalEdgeStyle;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1-PW3X7yGo-_oeGw8SEH-35" target="1-PW3X7yGo-_oeGw8SEH-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="10" as="sourcePoint" />
             <mxPoint x="280" y="10" as="targetPoint" />
@@ -1238,71 +1238,71 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1-PW3X7yGo-_oeGw8SEH-37" value="" style="endArrow=none;html=1;rounded=0;fontSize=11;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1-PW3X7yGo-_oeGw8SEH-35">
+        <mxCell id="1-PW3X7yGo-_oeGw8SEH-37" value="" style="endArrow=none;html=1;rounded=0;fontSize=11;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1-PW3X7yGo-_oeGw8SEH-35" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="10" as="sourcePoint" />
             <mxPoint y="10" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1-PW3X7yGo-_oeGw8SEH-38" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="1-PW3X7yGo-_oeGw8SEH-3">
+        <mxCell id="1-PW3X7yGo-_oeGw8SEH-38" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="1-PW3X7yGo-_oeGw8SEH-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="340" y="520" as="sourcePoint" />
             <mxPoint x="380" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1-PW3X7yGo-_oeGw8SEH-39" value="Стоматологический&lt;br&gt;инструмент" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="1-PW3X7yGo-_oeGw8SEH-38">
+        <mxCell id="1-PW3X7yGo-_oeGw8SEH-39" value="Стоматологический&lt;br&gt;инструмент" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" parent="1-PW3X7yGo-_oeGw8SEH-38" vertex="1" connectable="0">
           <mxGeometry x="-0.844" relative="1" as="geometry">
             <mxPoint x="-55" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1-PW3X7yGo-_oeGw8SEH-40" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="1-PW3X7yGo-_oeGw8SEH-5">
+        <mxCell id="1-PW3X7yGo-_oeGw8SEH-40" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="1-PW3X7yGo-_oeGw8SEH-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="740" y="450" as="sourcePoint" />
             <mxPoint x="800" y="425" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1-PW3X7yGo-_oeGw8SEH-41" value="Здоровый&amp;nbsp;&lt;br&gt;пациент" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="1-PW3X7yGo-_oeGw8SEH-40">
+        <mxCell id="1-PW3X7yGo-_oeGw8SEH-41" value="Здоровый&amp;nbsp;&lt;br&gt;пациент" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" parent="1-PW3X7yGo-_oeGw8SEH-40" vertex="1" connectable="0">
           <mxGeometry x="-0.0245" y="-1" relative="1" as="geometry">
             <mxPoint y="-17" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1-PW3X7yGo-_oeGw8SEH-42" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="1-PW3X7yGo-_oeGw8SEH-2">
+        <mxCell id="1-PW3X7yGo-_oeGw8SEH-42" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" target="1-PW3X7yGo-_oeGw8SEH-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="150" as="sourcePoint" />
             <mxPoint x="200" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1-PW3X7yGo-_oeGw8SEH-43" value="Расписание&lt;br&gt;приёмов&lt;br&gt;стоматологического&lt;br&gt;центра" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="1-PW3X7yGo-_oeGw8SEH-42">
+        <mxCell id="1-PW3X7yGo-_oeGw8SEH-43" value="Расписание&lt;br&gt;приёмов&lt;br&gt;стоматологического&lt;br&gt;центра" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" parent="1-PW3X7yGo-_oeGw8SEH-42" vertex="1" connectable="0">
           <mxGeometry x="-0.7571" y="3" relative="1" as="geometry">
             <mxPoint x="51" y="9" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1-PW3X7yGo-_oeGw8SEH-45" value="" style="endArrow=none;html=1;rounded=0;fontSize=11;edgeStyle=isometricEdgeStyle;strokeWidth=1;" edge="1" parent="1">
+        <mxCell id="1-PW3X7yGo-_oeGw8SEH-45" value="" style="endArrow=none;html=1;rounded=0;fontSize=11;edgeStyle=isometricEdgeStyle;strokeWidth=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="260" y="200" as="sourcePoint" />
             <mxPoint x="284" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1-PW3X7yGo-_oeGw8SEH-47" value="Назначено&lt;br style=&quot;font-size: 8px;&quot;&gt;лечение" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" vertex="1" connectable="0" parent="1-PW3X7yGo-_oeGw8SEH-45">
+        <mxCell id="1-PW3X7yGo-_oeGw8SEH-47" value="Назначено&lt;br style=&quot;font-size: 8px;&quot;&gt;лечение" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" parent="1-PW3X7yGo-_oeGw8SEH-45" vertex="1" connectable="0">
           <mxGeometry x="0.7447" relative="1" as="geometry">
             <mxPoint x="19" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1-PW3X7yGo-_oeGw8SEH-48" value="" style="endArrow=none;html=1;rounded=0;fontSize=11;edgeStyle=isometricEdgeStyle;strokeWidth=1;" edge="1" parent="1">
+        <mxCell id="1-PW3X7yGo-_oeGw8SEH-48" value="" style="endArrow=none;html=1;rounded=0;fontSize=11;edgeStyle=isometricEdgeStyle;strokeWidth=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="226" y="227" as="sourcePoint" />
             <mxPoint x="250" y="207" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1-PW3X7yGo-_oeGw8SEH-50" value="Назначено&lt;br style=&quot;font-size: 8px;&quot;&gt;протезирование" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;labelBackgroundColor=none;" vertex="1" connectable="0" parent="1-PW3X7yGo-_oeGw8SEH-48">
+        <mxCell id="1-PW3X7yGo-_oeGw8SEH-50" value="Назначено&lt;br style=&quot;font-size: 8px;&quot;&gt;протезирование" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;labelBackgroundColor=none;" parent="1-PW3X7yGo-_oeGw8SEH-48" vertex="1" connectable="0">
           <mxGeometry x="-0.7037" relative="1" as="geometry">
             <mxPoint x="-15" y="11" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1-PW3X7yGo-_oeGw8SEH-51" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="1-PW3X7yGo-_oeGw8SEH-51" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="340" y="435" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1-PW3X7yGo-_oeGw8SEH-52" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;edgeStyle=orthogonalEdgeStyle;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1-PW3X7yGo-_oeGw8SEH-51" target="1-PW3X7yGo-_oeGw8SEH-4">
+        <mxCell id="1-PW3X7yGo-_oeGw8SEH-52" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;edgeStyle=orthogonalEdgeStyle;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1-PW3X7yGo-_oeGw8SEH-51" target="1-PW3X7yGo-_oeGw8SEH-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="10" as="sourcePoint" />
             <mxPoint x="280" y="10" as="targetPoint" />
@@ -1311,24 +1311,24 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1-PW3X7yGo-_oeGw8SEH-53" value="" style="endArrow=none;html=1;rounded=0;fontSize=11;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1-PW3X7yGo-_oeGw8SEH-51">
+        <mxCell id="1-PW3X7yGo-_oeGw8SEH-53" value="" style="endArrow=none;html=1;rounded=0;fontSize=11;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1-PW3X7yGo-_oeGw8SEH-51" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="10" as="sourcePoint" />
             <mxPoint y="10" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f8Y1_7BiitIGd5Q60FNT-5" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;fontSize=11;entryX=-0.002;entryY=0.366;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;entryPerimeter=0;" edge="1" parent="1" target="1-PW3X7yGo-_oeGw8SEH-3">
+        <mxCell id="f8Y1_7BiitIGd5Q60FNT-5" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;fontSize=11;entryX=-0.002;entryY=0.366;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;entryPerimeter=0;" parent="1" target="1-PW3X7yGo-_oeGw8SEH-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-120" y="160" as="sourcePoint" />
             <mxPoint x="-60" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f8Y1_7BiitIGd5Q60FNT-6" value="Анастетики" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;labelBackgroundColor=none;" vertex="1" connectable="0" parent="f8Y1_7BiitIGd5Q60FNT-5">
+        <mxCell id="f8Y1_7BiitIGd5Q60FNT-6" value="Анастетики" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;labelBackgroundColor=none;" parent="f8Y1_7BiitIGd5Q60FNT-5" vertex="1" connectable="0">
           <mxGeometry x="-0.5333" y="1" relative="1" as="geometry">
             <mxPoint x="-84" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f8Y1_7BiitIGd5Q60FNT-7" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;fontSize=11;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" target="1-PW3X7yGo-_oeGw8SEH-3">
+        <mxCell id="f8Y1_7BiitIGd5Q60FNT-7" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;fontSize=11;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" target="1-PW3X7yGo-_oeGw8SEH-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-120" y="200" as="sourcePoint" />
             <mxPoint x="279" y="265" as="targetPoint" />
@@ -1338,12 +1338,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="f8Y1_7BiitIGd5Q60FNT-8" value="Пломбировочный&lt;br&gt;материал" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;labelBackgroundColor=none;" vertex="1" connectable="0" parent="f8Y1_7BiitIGd5Q60FNT-7">
+        <mxCell id="f8Y1_7BiitIGd5Q60FNT-8" value="Пломбировочный&lt;br&gt;материал" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;labelBackgroundColor=none;" parent="f8Y1_7BiitIGd5Q60FNT-7" vertex="1" connectable="0">
           <mxGeometry x="-0.5333" y="1" relative="1" as="geometry">
             <mxPoint x="-63" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f8Y1_7BiitIGd5Q60FNT-9" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;fontSize=11;entryX=-0.006;entryY=0.624;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" target="1-PW3X7yGo-_oeGw8SEH-3">
+        <mxCell id="f8Y1_7BiitIGd5Q60FNT-9" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;fontSize=11;entryX=-0.006;entryY=0.624;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" parent="1" target="1-PW3X7yGo-_oeGw8SEH-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-120" y="231" as="sourcePoint" />
             <mxPoint x="265" y="275" as="targetPoint" />
@@ -1353,23 +1353,23 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="f8Y1_7BiitIGd5Q60FNT-10" value="Прокладочный&lt;br&gt;материал" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;labelBackgroundColor=none;" vertex="1" connectable="0" parent="f8Y1_7BiitIGd5Q60FNT-9">
+        <mxCell id="f8Y1_7BiitIGd5Q60FNT-10" value="Прокладочный&lt;br&gt;материал" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;labelBackgroundColor=none;" parent="f8Y1_7BiitIGd5Q60FNT-9" vertex="1" connectable="0">
           <mxGeometry x="-0.5333" y="1" relative="1" as="geometry">
             <mxPoint x="-66" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f8Y1_7BiitIGd5Q60FNT-11" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;fontSize=11;entryX=0;entryY=0.75;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" target="1-PW3X7yGo-_oeGw8SEH-3">
+        <mxCell id="f8Y1_7BiitIGd5Q60FNT-11" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;fontSize=11;entryX=0;entryY=0.75;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" target="1-PW3X7yGo-_oeGw8SEH-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-120" y="289" as="sourcePoint" />
             <mxPoint x="-60" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f8Y1_7BiitIGd5Q60FNT-12" value="Полировочный&lt;br&gt;материал" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;labelBackgroundColor=none;" vertex="1" connectable="0" parent="f8Y1_7BiitIGd5Q60FNT-11">
+        <mxCell id="f8Y1_7BiitIGd5Q60FNT-12" value="Полировочный&lt;br&gt;материал" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;labelBackgroundColor=none;" parent="f8Y1_7BiitIGd5Q60FNT-11" vertex="1" connectable="0">
           <mxGeometry x="-0.5333" y="1" relative="1" as="geometry">
             <mxPoint x="-54" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f8Y1_7BiitIGd5Q60FNT-13" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;fontSize=11;entryX=0.012;entryY=0.894;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" target="1-PW3X7yGo-_oeGw8SEH-3">
+        <mxCell id="f8Y1_7BiitIGd5Q60FNT-13" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;fontSize=11;entryX=0.012;entryY=0.894;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" parent="1" target="1-PW3X7yGo-_oeGw8SEH-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-120" y="319.29" as="sourcePoint" />
             <mxPoint x="-60" y="319.29" as="targetPoint" />
@@ -1379,12 +1379,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="f8Y1_7BiitIGd5Q60FNT-14" value="Антисептический&lt;br&gt;материал" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;labelBackgroundColor=none;" vertex="1" connectable="0" parent="f8Y1_7BiitIGd5Q60FNT-13">
+        <mxCell id="f8Y1_7BiitIGd5Q60FNT-14" value="Антисептический&lt;br&gt;материал" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;labelBackgroundColor=none;" parent="f8Y1_7BiitIGd5Q60FNT-13" vertex="1" connectable="0">
           <mxGeometry x="-0.5333" y="1" relative="1" as="geometry">
             <mxPoint x="-52" y="-12" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f8Y1_7BiitIGd5Q60FNT-15" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;fontSize=11;entryX=0;entryY=0.624;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" target="1-PW3X7yGo-_oeGw8SEH-4">
+        <mxCell id="f8Y1_7BiitIGd5Q60FNT-15" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;fontSize=11;entryX=0;entryY=0.624;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" parent="1" target="1-PW3X7yGo-_oeGw8SEH-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-120" y="351.99999999999994" as="sourcePoint" />
             <mxPoint x="-60" y="351.99999999999994" as="targetPoint" />
@@ -1394,34 +1394,34 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="f8Y1_7BiitIGd5Q60FNT-16" value="Пластмасса" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;labelBackgroundColor=none;" vertex="1" connectable="0" parent="f8Y1_7BiitIGd5Q60FNT-15">
+        <mxCell id="f8Y1_7BiitIGd5Q60FNT-16" value="Пластмасса" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;labelBackgroundColor=none;" parent="f8Y1_7BiitIGd5Q60FNT-15" vertex="1" connectable="0">
           <mxGeometry x="-0.5333" y="1" relative="1" as="geometry">
             <mxPoint x="-88" y="-24" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f8Y1_7BiitIGd5Q60FNT-17" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;fontSize=11;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="1-PW3X7yGo-_oeGw8SEH-4">
+        <mxCell id="f8Y1_7BiitIGd5Q60FNT-17" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;fontSize=11;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" target="1-PW3X7yGo-_oeGw8SEH-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-120" y="379" as="sourcePoint" />
             <mxPoint x="-60" y="379" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f8Y1_7BiitIGd5Q60FNT-18" value="Гипс" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;labelBackgroundColor=none;" vertex="1" connectable="0" parent="f8Y1_7BiitIGd5Q60FNT-17">
+        <mxCell id="f8Y1_7BiitIGd5Q60FNT-18" value="Гипс" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;labelBackgroundColor=none;" parent="f8Y1_7BiitIGd5Q60FNT-17" vertex="1" connectable="0">
           <mxGeometry x="-0.5333" y="1" relative="1" as="geometry">
             <mxPoint x="-120" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f8Y1_7BiitIGd5Q60FNT-19" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;fontSize=11;entryX=-0.008;entryY=0.844;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" target="1-PW3X7yGo-_oeGw8SEH-4">
+        <mxCell id="f8Y1_7BiitIGd5Q60FNT-19" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;fontSize=11;entryX=-0.008;entryY=0.844;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" parent="1" target="1-PW3X7yGo-_oeGw8SEH-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-120" y="418.29" as="sourcePoint" />
             <mxPoint x="-60" y="418.29" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f8Y1_7BiitIGd5Q60FNT-20" value="Слепочные&lt;br&gt;массы" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;labelBackgroundColor=none;" vertex="1" connectable="0" parent="f8Y1_7BiitIGd5Q60FNT-19">
+        <mxCell id="f8Y1_7BiitIGd5Q60FNT-20" value="Слепочные&lt;br&gt;массы" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;labelBackgroundColor=none;" parent="f8Y1_7BiitIGd5Q60FNT-19" vertex="1" connectable="0">
           <mxGeometry x="-0.5333" y="1" relative="1" as="geometry">
             <mxPoint x="-108" y="-15" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f8Y1_7BiitIGd5Q60FNT-21" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;fontSize=11;entryX=-0.025;entryY=0.936;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" target="1-PW3X7yGo-_oeGw8SEH-4">
+        <mxCell id="f8Y1_7BiitIGd5Q60FNT-21" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;fontSize=11;entryX=0.008;entryY=0.927;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" parent="1" target="1-PW3X7yGo-_oeGw8SEH-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-120" y="450.99999999999994" as="sourcePoint" />
             <mxPoint x="-60" y="450.99999999999994" as="targetPoint" />
@@ -1431,24 +1431,209 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="f8Y1_7BiitIGd5Q60FNT-22" value="Металл" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;labelBackgroundColor=none;" vertex="1" connectable="0" parent="f8Y1_7BiitIGd5Q60FNT-21">
+        <mxCell id="f8Y1_7BiitIGd5Q60FNT-22" value="Металл" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;labelBackgroundColor=none;" parent="f8Y1_7BiitIGd5Q60FNT-21" vertex="1" connectable="0">
           <mxGeometry x="-0.5333" y="1" relative="1" as="geometry">
             <mxPoint x="-122" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f8Y1_7BiitIGd5Q60FNT-26" value="" style="group;direction=east;flipH=1;flipV=0;" vertex="1" connectable="0" parent="1">
+        <mxCell id="f8Y1_7BiitIGd5Q60FNT-26" value="" style="group;direction=east;flipH=1;flipV=0;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="50" y="319" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="f8Y1_7BiitIGd5Q60FNT-28" value="" style="endArrow=none;html=1;rounded=0;fontSize=11;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="f8Y1_7BiitIGd5Q60FNT-26">
+        <mxCell id="f8Y1_7BiitIGd5Q60FNT-28" value="" style="endArrow=none;html=1;rounded=0;fontSize=11;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="f8Y1_7BiitIGd5Q60FNT-26" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint as="sourcePoint" />
             <mxPoint x="10" y="10" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f8Y1_7BiitIGd5Q60FNT-29" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;fontSize=8;entryX=-0.002;entryY=0.269;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="1-PW3X7yGo-_oeGw8SEH-4">
+        <mxCell id="f8Y1_7BiitIGd5Q60FNT-29" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;fontSize=8;entryX=-0.002;entryY=0.269;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="60" y="328" as="sourcePoint" />
-            <mxPoint x="190" y="310" as="targetPoint" />
+            <mxPoint x="60" y="335" as="sourcePoint" />
+            <mxPoint x="439.76" y="336.3209999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EHNL_YI6fuHRWsOZ20lr-1" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="42" y="97" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EHNL_YI6fuHRWsOZ20lr-2" value="2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="201" y="178" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EHNL_YI6fuHRWsOZ20lr-4" value="3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="363" y="293" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EHNL_YI6fuHRWsOZ20lr-5" value="4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="521" y="384" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EHNL_YI6fuHRWsOZ20lr-6" value="5" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="415" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EHNL_YI6fuHRWsOZ20lr-7" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="335" as="sourcePoint" />
+            <mxPoint x="60" y="328" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="S6fxJDR6NSXxEAQcBb9C" name="Страница 4">
+    <mxGraphModel dx="854" dy="382" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EHfHX_IN48b6LO_IxIov-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EHfHX_IN48b6LO_IxIov-1" target="EHfHX_IN48b6LO_IxIov-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="105" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EHfHX_IN48b6LO_IxIov-26" value="Данные о&lt;br&gt;жалобах и&lt;br&gt;необходимости&lt;br&gt;осмотра" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="EHfHX_IN48b6LO_IxIov-25">
+          <mxGeometry x="0.0405" relative="1" as="geometry">
+            <mxPoint x="-44" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EHfHX_IN48b6LO_IxIov-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EHfHX_IN48b6LO_IxIov-1" target="EHfHX_IN48b6LO_IxIov-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EHfHX_IN48b6LO_IxIov-37" value="Пожелания&lt;br&gt;пациента" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="EHfHX_IN48b6LO_IxIov-36">
+          <mxGeometry x="0.3011" y="-2" relative="1" as="geometry">
+            <mxPoint x="1" y="13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EHfHX_IN48b6LO_IxIov-1" value="Пациент" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="170" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EHfHX_IN48b6LO_IxIov-8" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="180" y="60" width="118" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="EHfHX_IN48b6LO_IxIov-6" value="Запись на осмотр" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;" vertex="1" parent="EHfHX_IN48b6LO_IxIov-8">
+          <mxGeometry y="2" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EHfHX_IN48b6LO_IxIov-7" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EHfHX_IN48b6LO_IxIov-8">
+          <mxGeometry x="88" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EHfHX_IN48b6LO_IxIov-9" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="235" y="175" width="118" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="EHfHX_IN48b6LO_IxIov-10" value="Выбрать лечение" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;" vertex="1" parent="EHfHX_IN48b6LO_IxIov-9">
+          <mxGeometry y="2" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EHfHX_IN48b6LO_IxIov-11" value="2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EHfHX_IN48b6LO_IxIov-9">
+          <mxGeometry x="88" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EHfHX_IN48b6LO_IxIov-12" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="440" y="270" width="118" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="EHfHX_IN48b6LO_IxIov-13" value="Составить план&lt;br&gt;лечения" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;" vertex="1" parent="EHfHX_IN48b6LO_IxIov-12">
+          <mxGeometry y="2" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EHfHX_IN48b6LO_IxIov-14" value="3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EHfHX_IN48b6LO_IxIov-12">
+          <mxGeometry x="88" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EHfHX_IN48b6LO_IxIov-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EHfHX_IN48b6LO_IxIov-15" target="EHfHX_IN48b6LO_IxIov-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EHfHX_IN48b6LO_IxIov-28" value="Свободные дата/время приёма" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EHfHX_IN48b6LO_IxIov-27">
+          <mxGeometry x="-0.07" y="1" relative="1" as="geometry">
+            <mxPoint y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EHfHX_IN48b6LO_IxIov-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EHfHX_IN48b6LO_IxIov-15" target="EHfHX_IN48b6LO_IxIov-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EHfHX_IN48b6LO_IxIov-31" value="Поиск&lt;br&gt;свободной&lt;br&gt;даты/времени" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="EHfHX_IN48b6LO_IxIov-30">
+          <mxGeometry x="-0.1338" relative="1" as="geometry">
+            <mxPoint x="-41" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EHfHX_IN48b6LO_IxIov-15" value="Администратор" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="72" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EHfHX_IN48b6LO_IxIov-18" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="492" y="180" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EHfHX_IN48b6LO_IxIov-16" value="01" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];strokeColor=default;fillColor=none;" vertex="1" parent="EHfHX_IN48b6LO_IxIov-18">
+          <mxGeometry width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EHfHX_IN48b6LO_IxIov-17" value="Расписание&lt;br&gt;приёмов" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EHfHX_IN48b6LO_IxIov-18">
+          <mxGeometry x="30" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EHfHX_IN48b6LO_IxIov-19" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="139" y="350" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EHfHX_IN48b6LO_IxIov-20" value="02" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];strokeColor=default;fillColor=none;" vertex="1" parent="EHfHX_IN48b6LO_IxIov-19">
+          <mxGeometry width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EHfHX_IN48b6LO_IxIov-21" value="Доступные&lt;br&gt;варианты&lt;br&gt;лечения и&lt;br&gt;протезирования" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EHfHX_IN48b6LO_IxIov-19">
+          <mxGeometry x="45" width="105" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EHfHX_IN48b6LO_IxIov-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.609;entryY=1.06;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;" edge="1" parent="1" source="EHfHX_IN48b6LO_IxIov-22" target="EHfHX_IN48b6LO_IxIov-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EHfHX_IN48b6LO_IxIov-44" value="Рекомендации&#xa;лечащего&#xa;врача" style="edgeLabel;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="EHfHX_IN48b6LO_IxIov-43">
+          <mxGeometry x="0.7656" y="1" relative="1" as="geometry">
+            <mxPoint x="42" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EHfHX_IN48b6LO_IxIov-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;" edge="1" parent="1" source="EHfHX_IN48b6LO_IxIov-22" target="EHfHX_IN48b6LO_IxIov-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EHfHX_IN48b6LO_IxIov-46" value="&lt;span style=&quot;&quot;&gt;Рекомендации&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;&lt;span style=&quot;&quot;&gt;лечащего&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;&lt;span style=&quot;&quot;&gt;врача&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="EHfHX_IN48b6LO_IxIov-45">
+          <mxGeometry x="0.5714" y="-1" relative="1" as="geometry">
+            <mxPoint x="40" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EHfHX_IN48b6LO_IxIov-22" value="Стоматолог" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="420" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EHfHX_IN48b6LO_IxIov-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.85;entryY=1.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="EHfHX_IN48b6LO_IxIov-17" target="EHfHX_IN48b6LO_IxIov-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EHfHX_IN48b6LO_IxIov-33" value="Свободные&lt;br&gt;дата/время&lt;br&gt;приёма" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="EHfHX_IN48b6LO_IxIov-32">
+          <mxGeometry x="0.216" relative="1" as="geometry">
+            <mxPoint x="32" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EHfHX_IN48b6LO_IxIov-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EHfHX_IN48b6LO_IxIov-6" target="EHfHX_IN48b6LO_IxIov-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EHfHX_IN48b6LO_IxIov-35" value="Данные&lt;br&gt;с осмотра" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="EHfHX_IN48b6LO_IxIov-34">
+          <mxGeometry x="-0.4462" y="3" relative="1" as="geometry">
+            <mxPoint x="24" y="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EHfHX_IN48b6LO_IxIov-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="EHfHX_IN48b6LO_IxIov-21" target="EHfHX_IN48b6LO_IxIov-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EHfHX_IN48b6LO_IxIov-39" value="Данные о&lt;br&gt;доступных&lt;br&gt;вариантах&lt;br&gt;лечения/&lt;br&gt;протезирования" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="EHfHX_IN48b6LO_IxIov-38">
+          <mxGeometry x="0.2283" y="-1" relative="1" as="geometry">
+            <mxPoint x="-46" y="21" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EHfHX_IN48b6LO_IxIov-41" value="Выбранный&lt;br&gt;вариант&lt;br&gt;лечения" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;" edge="1" parent="1" source="EHfHX_IN48b6LO_IxIov-10" target="EHfHX_IN48b6LO_IxIov-13">
+          <mxGeometry x="-0.1775" y="38" relative="1" as="geometry">
+            <mxPoint x="390" y="245" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EHfHX_IN48b6LO_IxIov-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;" edge="1" parent="1" source="EHfHX_IN48b6LO_IxIov-17" target="EHfHX_IN48b6LO_IxIov-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EHfHX_IN48b6LO_IxIov-48" value="Свободные дни&lt;br&gt;приёма" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="EHfHX_IN48b6LO_IxIov-47">
+          <mxGeometry x="-0.6619" relative="1" as="geometry">
+            <mxPoint x="43" y="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EHfHX_IN48b6LO_IxIov-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;" edge="1" parent="1" source="EHfHX_IN48b6LO_IxIov-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="297" />
+              <mxPoint x="600" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EHfHX_IN48b6LO_IxIov-51" value="План лечения" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EHfHX_IN48b6LO_IxIov-50">
+          <mxGeometry x="0.5021" y="-2" relative="1" as="geometry">
+            <mxPoint x="15" y="-12" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
